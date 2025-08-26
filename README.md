@@ -28,7 +28,7 @@ The parameters configuration is located in the file **"infoMaker.m"**. The sourc
 Each one of the phases of the experiment is located in one file, as follows:
 
 - **"aioMaker.m"** contains all of the instructions of the exection of the experiment.
-- 
+  
 - **"cpCollecter.m"** takes individual statistical results and collects them all in order to have a global result of the dataset
 
 - **"README.md"** this file.
